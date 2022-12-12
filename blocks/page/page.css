@@ -6,4 +6,6 @@
   font-weight: 400;
   background-color: #2A2C2F;
   color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
