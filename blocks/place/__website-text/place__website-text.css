@@ -1,0 +1,8 @@
+.place__website-text {
+  margin: 0 0 12px;
+  color: #aaa;
+  font-size: 12px;
+  line-height: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}

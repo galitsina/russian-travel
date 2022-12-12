@@ -1,0 +1,15 @@
+.place {
+  margin: 0;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  grid-template-rows: 460 1fr;
+  gap: 48px 40px;
+}
+
+.place:last-of-type {
+  padding-bottom: 0;
+}
+
+/* для самого низкого разрешения поставить grid-template-columns: 1fr; */
