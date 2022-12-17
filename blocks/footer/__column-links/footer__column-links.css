@@ -6,3 +6,11 @@
   grid-template-columns: repeat(5, auto);
   gap: 18px;
 }
+
+@media screen and (max-width: 768px) {
+  .footer__column-links {
+    grid-template-columns: minmax(74px, 158px);
+    grid-template-rows: repeat(5, auto);
+    gap: 32px;
+  }
+}

@@ -4,5 +4,18 @@
   box-sizing: border-box;
   max-width: 690px;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.63;
+}
+
+@media screen and (max-width: 1023px) {
+  .intro__text {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro__text {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }

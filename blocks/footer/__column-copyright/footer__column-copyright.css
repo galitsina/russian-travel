@@ -4,3 +4,10 @@
   font-size: 14px;
   line-height: 16px;
 }
+
+@media screen and (max-width: 768px) {
+  .footer__column-copyright {
+    line-height: 14px;
+    padding-top: 48px;
+  }
+}
