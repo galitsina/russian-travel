@@ -7,7 +7,7 @@
   gap: 18px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__column-links {
     grid-template-columns: minmax(74px, 158px);
     grid-template-rows: repeat(5, auto);

@@ -16,21 +16,21 @@
   width: 100%;
 }
 
-.cover__overlay:before {
+.cover__overlay::before {
   content: '';
-  background-color: rgba(42, 44, 47, .8);
+  background-color: #2A2C2F;
   position: absolute;
   top: 0;
   right: 0;
   left: 0;
   bottom: 0;
-  opacity: 0.2;
+  opacity: .3;
   z-index: -1;
   transition: linear 0.2s;
 }
 
 .cover__overlay:hover::before {
-  opacity: 1;
+  opacity: .8;
 }
 
 @media screen and (max-width: 1279px) {
