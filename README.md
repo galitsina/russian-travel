@@ -17,3 +17,21 @@
 * Использованы медиазапросы media queries, чтобы задавать специфические правила для разных размеров экрана.
 
 ### [Ссылка на сайт](https://galitsina.github.io/russian-travel)
+
+# **Traveling in Russia**
+
+## Project Description
+The "Traveling in Russia" project is implemented as a single-page responsive website that showcases various places to visit in Russia. On the website, you will find beautiful locations in the country with pictures, descriptions, and useful links.
+
+The responsiveness of the layout in this project means that the website behaves differently on different screen resolutions:
+* From 1280 pixels and above - for standard laptops and beyond.
+* From 1024 to 1280 pixels - for smaller laptops.
+* From 768 to 1024 pixels - from vertical to horizontal tablet orientation.
+* From 320 to 768 pixels - for mobile devices.
+
+## Technologies Used in the Project
+* Working with the layout in the Figma graphic editor.
+* Created a responsive page using Grid Layout.
+* Utilized media queries to apply specific rules for different screen sizes.
+
+### [Website Link](https://galitsina.github.io/russian-travel)
